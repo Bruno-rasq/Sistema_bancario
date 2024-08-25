@@ -1,0 +1,8 @@
+TODO:
+
+	implementar mensagens de erro (Erro)
+	imploementar mensagens de sucesso
+	testar services
+	refator
+
+	procurar bugs
